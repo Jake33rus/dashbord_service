@@ -1,0 +1,17 @@
+C:\Users\Jake3\source\repos\DashboardHelper\DashboardHelper\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Jake3\source\repos\DashboardHelper\DashboardHelper\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Jake3\source\repos\DashboardHelper\DashboardHelper\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Jake3\source\repos\DashboardHelper\DashboardHelper\bin\Debug\netcoreapp3.1\DashboardHelper.exe
+C:\Users\Jake3\source\repos\DashboardHelper\DashboardHelper\obj\Debug\netcoreapp3.1\DashboardHelper.csprojAssemblyReference.cache
+C:\Users\Jake3\source\repos\DashboardHelper\DashboardHelper\obj\Debug\netcoreapp3.1\staticwebassets\DashboardHelper.StaticWebAssets.Manifest.cache
+C:\Users\Jake3\source\repos\DashboardHelper\DashboardHelper\obj\Debug\netcoreapp3.1\staticwebassets\DashboardHelper.StaticWebAssets.xml
+C:\Users\Jake3\source\repos\DashboardHelper\DashboardHelper\obj\Debug\netcoreapp3.1\DashboardHelper.AssemblyInfoInputs.cache
+C:\Users\Jake3\source\repos\DashboardHelper\DashboardHelper\obj\Debug\netcoreapp3.1\DashboardHelper.AssemblyInfo.cs
+C:\Users\Jake3\source\repos\DashboardHelper\DashboardHelper\obj\Debug\netcoreapp3.1\DashboardHelper.RazorTargetAssemblyInfo.cache
+C:\Users\Jake3\source\repos\DashboardHelper\DashboardHelper\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\Jake3\source\repos\DashboardHelper\DashboardHelper\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\Jake3\source\repos\DashboardHelper\DashboardHelper\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\Jake3\source\repos\DashboardHelper\DashboardHelper\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\Jake3\source\repos\DashboardHelper\DashboardHelper\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\Jake3\source\repos\DashboardHelper\DashboardHelper\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\Jake3\source\repos\DashboardHelper\DashboardHelper\obj\Debug\netcoreapp3.1\DashboardHelper.csproj.CopyComplete
